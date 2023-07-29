@@ -1,6 +1,6 @@
-$Emmm,\ Idk\ what\ to\ say,\ but\ still\ learning\ Javscript$
+Everything is None, everything is Null
 
-$Need\ to\ keep\ safe\ idk\ what\ am\ I\ saying$
+`std::nullptr`, `<class "NoneType">`
 
 <!---
 null-none-nix/null-none-nix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
