@@ -1,4 +1,4 @@
-Everything is None, everything is Null
+Everything is None
 
 `std::nullptr`, `<class "NoneType">`
 
